@@ -1,4 +1,4 @@
 genai
-Flask
+streamlit
 google-generativeai
-showdown
+
