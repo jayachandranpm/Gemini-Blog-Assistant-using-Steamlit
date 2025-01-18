@@ -1,4 +1,6 @@
 genai
 streamlit
 google-generativeai
+python-dotenv
+reportlab
 
