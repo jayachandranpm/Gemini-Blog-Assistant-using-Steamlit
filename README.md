@@ -32,5 +32,6 @@ To run this app, you need the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gemini-blog-assistant-pro.git
+   git clone https://github.com/jayachandranpm/Gemini-Blog-Assistant-using-Steamlit.git
    cd gemini-blog-assistant-pro
+   ```
