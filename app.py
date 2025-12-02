@@ -84,7 +84,7 @@ class BlogAssistant:
             st.stop()
         
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel('gemini-1.5-flash')
+        self.model = genai.GenerativeModel('gemini-2.5-flash')
         self.history = self.load_history()
         
         # Initialize session state for generated content
@@ -306,3 +306,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
